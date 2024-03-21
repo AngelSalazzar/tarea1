@@ -1,20 +1,24 @@
 {
-    "contra" :[
-       {
-         "usuario": "mario",
-         "Password": "12345"
-
-
-         },
-  
-       
-         {
-            "usuario": "Jose",
-            "Password": "23455"
-
-            }
-     
-            
+    "producto":[
+        {
+            "Id":1,
+            "Descripcion": "Mouse",
+            "Precio": "30.00"
+        },
+        {
+            "Id":2,
+            "Descripcion": "Teclado",
+            "Precio": "20.00"
+        },
+        {
+            "Id":3,
+            "Descripcion": "Pantalla",
+            "Precio": "30.00"
+        },
+        {
+            "Id":4,
+            "Descripcion": "CPU",
+            "Precio": "60.00"
+        }
     ]
-
 }
